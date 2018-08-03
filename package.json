@@ -1,0 +1,23 @@
+{
+  "name": "web-programming",
+  "version": "0.0.0",
+  "description": "Hands-on introduction to web programming",
+  "repository": "https://github.com/olistic/web-programming.git",
+  "author": "Matias Olivera <moliverafreire@gmail.com>",
+  "contributors": [
+    "Matias Olivera <moliverafreire@gmail.com>",
+    "Rodrigo Espinosa <espinosacurbelo@gmail.com>"
+  ],
+  "license": "UNLICENSED",
+  "private": true,
+  "devDependencies": {
+    "husky": "^1.0.0-rc.13",
+    "prettier": "^1.14.0",
+    "pretty-quick": "^1.6.0"
+  },
+  "husky": {
+    "hooks": {
+      "pre-commit": "pretty-quick --staged"
+    }
+  }
+}
