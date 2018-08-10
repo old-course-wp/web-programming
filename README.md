@@ -22,7 +22,7 @@ You can find the syllabus [here](./SYLLABUS.md).
 
 ## Slides
 
-...
+- [LU-0](slides/ucudal-wp-lu0.pdf)
 
 ## Resources
 
