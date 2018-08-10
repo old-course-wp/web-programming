@@ -2,11 +2,11 @@
   "name": "web-programming",
   "version": "0.0.0",
   "description": "Hands-on introduction to web programming",
-  "repository": "https://github.com/olistic/web-programming.git",
-  "author": "Matias Olivera <moliverafreire@gmail.com>",
+  "repository": "https://github.com/ucudal-wp/web-programming.git",
+  "author": "Matias Olivera <javier.olivera@ucu.edu.uy>",
   "contributors": [
-    "Matias Olivera <moliverafreire@gmail.com>",
-    "Rodrigo Espinosa <espinosacurbelo@gmail.com>"
+    "Matias Olivera <javier.olivera@ucu.edu.uy>",
+    "Rodrigo Espinosa <miguel.espinosa@ucu.edu.uy>"
   ],
   "license": "UNLICENSED",
   "private": true,
