@@ -68,7 +68,7 @@ the further from present the topic is, the more likely it is to change.
 - Intro to JavaScript.
 - JavaScript events.
 - Intro to the DOM.
-- More DOM: adding/removing elements traversing.
+- More DOM: adding/removing elements, traversing.
 - More JavaScript events.
 - Keyboard and mobile events.
 
